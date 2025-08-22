@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **completing my Bachelor of Science in Computer Science degree.**
   
-- 🌱 My current courses are: **Programming, Digital Electronics/Computer Architecture and Databases.**
+- 🌱 My current courses are: **Programming, Digital Electronics/Computer Architecture & Databases.**
 
 - 🤔 I’m looking for help **gaining experience and improving my coding skills.**
   
