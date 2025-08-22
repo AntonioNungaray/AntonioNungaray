@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- 🔭 I’m currently working on **completing my Bachelor of Science in Computer Science degree.**
+- 🔭 **I’m currently working on:** *completing my Bachelor of Science in Computer Science degree.*
   
-- 🌱 I'm learning: **Programming, Digital Electronics/Computer Architecture & Databases.**
+- 🌱 **I'm learning:** *Programming, Digital Electronics/Computer Architecture & Databases.*
 
 <!-- - 🤔 I’m looking for help **gaining experience and improving my coding skills.**-->
   
-- 💬 Ask me about **Python, TypeScript, Tailwind CSS, SQL or for a coffee/song recommendation.**
+- 💬 **Ask me about:** *Python, TypeScript, Tailwind CSS, SQL or for a coffee/song recommendation.*
   
-- ⚡ Fun fact: **I'm Certified in Teaching English as a Foreign Skill (TEFL Level 5)**
+- ⚡ **Fun fact:** *I'm Certified in Teaching English as a Foreign Skill (TEFL Level 5)*
   
 ## Front-End
 
