@@ -1,6 +1,6 @@
 <p style = "text-align: center;">
-    Hi 👋 I'm Antonio Nungaray<br/>
-    Computer Science Student
+    # Hi 👋 I'm Antonio Nungaray<br/>
+    ## Computer Science Student
 </p>
 
 
