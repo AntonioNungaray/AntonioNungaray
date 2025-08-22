@@ -1,10 +1,7 @@
-<p style = "text-align: center;">
-    # Hi 👋 I'm Antonio Nungaray<br/>
-    ## Computer Science Student
-</p>
-
-
-
+<div>
+    <h1>Hi 👋 I'm Antonio Nungaray</h1>
+    <h2>Computer Science Student</h2>
+</div>
 
 <!--
 **AntonioNungaray/AntonioNungaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
