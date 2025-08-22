@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 - 🌱 I'm learning: **Programming, Digital Electronics/Computer Architecture & Databases.**
 
-- 🤔 I’m looking for help **gaining experience and improving my coding skills.**
+<!-- - 🤔 I’m looking for help **gaining experience and improving my coding skills.**-->
   
 - 💬 Ask me about **Python, TypeScript, Tailwind CSS, SQL or for a coffee/song recommendation.**
   
