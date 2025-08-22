@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 **I’m currently working on:** *completing my **Bachelor Degree in Computer Science.***
   
-- 🌱 **I'm learning:** *Programming, Digital Electronics/Computer Architecture & Databases.*
+- 🌱 **I'm learning:** *Python, TypeScript, Tailwind CSS, Angular, React.js, SQL and more.*
 
 <!-- - 🤔 I’m looking for help **gaining experience and improving my coding skills.**-->
   
-- 💬 **Ask me about:** *Python, TypeScript, Tailwind CSS, SQL or for a coffee/song recommendation.*
+- 💬 **Ask me about:** *Automating tasks with code and a coffee or song recommendation.*
   
 - ⚡ **Fun fact:** *I'm Certified in Teaching English as a Foreign Language* ***(TEFL Level 5)***
   
