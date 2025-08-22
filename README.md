@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 **I’m currently working on:** *completing my **Bachelor Degree in Computer Science.***
   
-- 🌱 **I'm learning:** *Python, TypeScript, Tailwind CSS, Angular, React.js, SQL and more.*
+- 🌱 **I'm learning:** *Python, TypeScript, Tailwind CSS, Angular, React.js, SQL/NoSQL and more.*
 
 <!-- - 🤔 I’m looking for help **gaining experience and improving my coding skills.**-->
   
