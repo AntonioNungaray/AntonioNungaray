@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- 🔭 **I’m currently working on:** *completing my Bachelor of Science in Computer Science degree.*
+- 🔭 **I’m currently working on:** *completing my* **Bachelor of Science in Computer Science** *degree.*
   
 - 🌱 **I'm learning:** *Programming, Digital Electronics/Computer Architecture & Databases.*
 
