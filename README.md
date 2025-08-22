@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 - 💬 Ask me about **Python, TypeScript, Tailwind CSS, SQL or for a coffee/song recommendation.**
   
-- ⚡ Fun fact: **I don't stop learning.**
+- ⚡ Fun fact: **I'm Certified in Teaching English as a Foreign Skill**
   
 ## Front-End
 
