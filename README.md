@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 - 💬 **Ask me about:** *Automating tasks with code and a coffee or song recommendation.*
   
-- ⚡ **Fun fact:** *I'm Certified in Teaching English as a Foreign Language* ***(TEFL Level 5)***
+- ⚡ **Fun fact:** *I'm Certified in Teaching English as a Foreign Language* ***(TEFL Level 5).***
   
 ## Front-End
 
