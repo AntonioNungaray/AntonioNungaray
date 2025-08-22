@@ -1,7 +1,10 @@
-<div style="text-align: center;">
-    Hi 👋 I'm Antonio Nungaray
+<p style = "text-align: center;">
+    Hi 👋 I'm Antonio Nungaray<br/>
     Computer Science Student
-</div>
+</p>
+
+
+
 
 <!--
 **AntonioNungaray/AntonioNungaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
