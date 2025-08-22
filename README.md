@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    ## Hi 👋 I'm Antonio Nungaray
+    Hi 👋 I'm Antonio Nungaray
     Computer Science Student
 </div>
 
