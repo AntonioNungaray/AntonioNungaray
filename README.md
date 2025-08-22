@@ -91,3 +91,14 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></img>
 </a> 
+
+## Social Media
+<a href="https://x.com/_nungaray_" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></img>
+</a> 
+<a href="https://www.linkedin.com/in/anungaray/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img>
+</a> 
+<a href="https://www.instagram.com/screwyour9to5/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></img>
+</a> 
